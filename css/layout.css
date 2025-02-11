@@ -1,0 +1,18 @@
+.buttoon{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    width: 50vw;
+    height: 10vw;
+    cursor: pointer;
+    font-size: 5vw;
+    border: none;
+    padding: 2vw 3vw;
+    border-radius: 50%;
+    margin: 5vw;
+    color: rgb(255, 36, 156);
+    background: darkorchid;
+}
